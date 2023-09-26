@@ -21,6 +21,8 @@ export default function App() {
         <Header />
         <Projects />
         <SideLinks />
+
+        <span>test</span>
       </div>
     </>
   );
